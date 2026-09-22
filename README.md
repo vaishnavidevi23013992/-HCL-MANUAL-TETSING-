@@ -1,7 +1,7 @@
 ## First Task:
 Collect the test cases from justdial e-commerce site.
 
-## Excel sheet:[[
+## Excel sheet:
 [View the manual testing XL sheet](https://docs.google.com/spreadsheets/d/1ZxDhupjIfR-JdGBGWQFi2L2XLhIpbjBDaOYQ9x-8T80/edit?usp=sharing)
 
 ## Second Task
