@@ -40,6 +40,10 @@ for i in s:
         result.append(i)
 print(",".join(result))
 ```
+### OUTPUT
+
+<img width="890" height="56" alt="image" src="https://github.com/user-attachments/assets/f5d10255-c47a-4fbf-8b5f-6748cbdb31c0" />
+
 ### 2. Count Letters and Digits
 
 #### Question
@@ -71,6 +75,10 @@ for i in n:
 print("LETTERS: ",letters)
 print("DIGITS: ",digits)
 ```
+### OUTPUT
+
+<img width="877" height="92" alt="image" src="https://github.com/user-attachments/assets/b6b70cae-f0e5-47b7-9abb-81d2bf454dc9" />
+
 ### 3. Factorial of a Number
 
 #### Question
@@ -96,3 +104,6 @@ for i in range(1,n+1):
     fact=fact*i
 print(fact)
 ```
+## OUTPUT
+
+<img width="817" height="112" alt="image" src="https://github.com/user-attachments/assets/3f5bb022-e6f8-4dcb-ab07-70035fdc5172" />
