@@ -39,7 +39,7 @@ for i in s:
     if (int(i,2)%5==0):
         result.append(i)
 print(",".join(result))
-
+```
 ### 2. Count Letters and Digits
 
 #### Question
@@ -70,7 +70,7 @@ for i in n:
         digits+=1
 print("LETTERS: ",letters)
 print("DIGITS: ",digits)
-
+```
 ### 3. Factorial of a Number
 
 #### Question
@@ -95,3 +95,4 @@ fact=1
 for i in range(1,n+1):
     fact=fact*i
 print(fact)
+```
