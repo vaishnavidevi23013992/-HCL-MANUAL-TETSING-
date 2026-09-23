@@ -12,9 +12,6 @@ Find the test cases and valid and invalid input from given exercises.
 [View the test cases from given exercises XL sheet](https://docs.google.com/spreadsheets/d/1E5XYy5GSTKugYZfok2l5zuTLiBM4PRKT37CBJL46Xq8/edit?usp=sharing)
 
 # Python Programming Exercises
-
-This repository contains simple Python programs based on basic programming concepts such as input handling, loops, conditional statements, string functions, and binary number conversion.
-
 ## Programs
 
 ### 1. Binary Numbers Divisible by 5
