@@ -37,7 +37,7 @@ print(maximum)
 '''
 3. Rainwater Collection System
 '''
-
+#PROGRAM
 n = int(input())
 a = list(map(int, input().split()))
 
@@ -71,6 +71,7 @@ print(water)
 '''
 4. Employee Performance Analysis
 '''
+#PROGRAM
 n = int(input())
 a = list(map(int, input().split()))
 
@@ -86,6 +87,7 @@ print(maximum)
 '''
 5. Product Sales Analysis
 '''
+#PROGRAM
 n = int(input())
 a = list(map(int, input().split()))
 
@@ -109,6 +111,7 @@ print(answer)
 '''
 6. Customer Purchase History
 '''
+#PROGRAM
 n = int(input())
 a = list(map(int, input().split()))
 
@@ -129,6 +132,8 @@ print(maximum)
 '''
 7. Bank Transaction Analysis
 '''
+#PROGRAM
+
 n = int(input())
 a = list(map(int, input().split()))
 
@@ -152,7 +157,7 @@ print(count)
 '''
 8. Employee Skill Grouping
 '''
-
+#PROGRAM
 n = int(input())
 words = input().split()
 
@@ -172,6 +177,7 @@ for group in groups.values():
 '''
 9. Network Packet Analysis
 '''
+#PROGRAM
 n = int(input())
 a = list(map(int, input().split()))
 
@@ -195,6 +201,7 @@ print(maximum)
 '''
 10. Hospital Appointment Scheduling
 '''
+#PROGRAM
 n = int(input())
 
 intervals = []
